@@ -1,0 +1,26 @@
+[  
+   {  
+      "id":1,
+      "cat": "Dairy",
+      "name":"Milk",
+      "price":1.7
+   },
+   {  
+      "id":2,
+      "cat": "Dairy",
+      "name":"Cheese",
+      "price":2.39
+   },
+   {  
+      "id":3,
+      "cat": "Dairy",
+      "name":"Butter",
+      "price":1.09
+   },
+   {  
+      "id":4,
+      "cat": "Dairy",
+      "name":"Eggs",
+      "price":1.76
+   }
+]
